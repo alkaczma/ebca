@@ -12,6 +12,7 @@ The application was tested on Linux Mint 18.2 Cinnamon
 Installation process:
 - install imagemagick
 - install the OpenCV library in Version 2.4.x (https://docs.opencv.org/3.4/d7/d9f/tutorial_linux_install.html)
+- compile stereo_match.cpp example inluded in OpenCV
 - install the LIBELAS library (http://www.cvlibs.net/software/libelas/)
 - install Middlebury Stereo Vision Source code for MRF minimization (http://vision.middlebury.edu/MRF/code/)
 
