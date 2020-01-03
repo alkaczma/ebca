@@ -1,4 +1,5 @@
-# Software for a camera array
+# Software for equal baseline camera array (EBCA)
+
 Details of using this software are presented in the paper:
 Adam L. Kaczmarek, "Testbed for 3D imaging algorithms using camera arrays"
 
