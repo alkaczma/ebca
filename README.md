@@ -20,3 +20,5 @@ Installation process:
 
 Running:
 ./runtestbed.sh
+
+If you have any questions please contact me: https://pg.edu.pl/d119a02021_adam.kaczmarek
