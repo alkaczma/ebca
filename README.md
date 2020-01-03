@@ -1,6 +1,6 @@
 # Software for a camera array
-# Details of using this software are presented in the paper:
-# Adam L. Kaczmarek, "Testbed for 3D imaging algorithms using camera arrays"
+Details of using this software are presented in the paper:
+Adam L. Kaczmarek, "Testbed for 3D imaging algorithms using camera arrays"
 
 If you are using this work for research purposes please cite:
 1. Adam L. Kaczmarek, "Testbed for 3D imaging algorithms using camera arrays", Submitted, 2020.
