@@ -145,12 +145,12 @@ void Testbed::merge()
          if (p1==0 && p2==0 && p3!=0 && p4==0) reseemm.at<float>(Point(x, y))=p3;
          if (p1==0 && p2==0 && p3==0 && p4!=0) reseemm.at<float>(Point(x, y))=p4;
 
-         if (p1!=0 && p2!=0 && p3==0 && p4==0) if( abs(p1-p2) < param1pair) reseemm.at<float>(Point(x, y))=(p1 +p2)/2;
+         if (p1!=0 && p2!=0 && p3==0 && p4==0) if( abs(p1-p2) < param1pair) reseemm.at<float>(Point(x, y))=(p1+p2)/2;
          if (p1!=0 && p2==0 && p3!=0 && p4==0) if( abs(p1-p3) < param1pair) reseemm.at<float>(Point(x, y))=(p1+p3)/2;
          if (p1==0 && p2!=0 && p3!=0 && p4==0) if( abs(p2-p3) < param1pair) reseemm.at<float>(Point(x, y))=(p2+p3)/2;
-         if (p1!=0 && p2==0 && p3==0 && p4!=0) if( abs(p1-p3) < param1pair) reseemm.at<float>(Point(x, y))=(p1+p4)/2;
-         if (p1==0 && p2!=0 && p3==0 && p4!=0) if( abs(p2-p3) < param1pair) reseemm.at<float>(Point(x, y))=(p2+p4)/2;
-         if (p1==0 && p2==0 && p3!=0 && p4!=0) if( abs(p1-p2) < param1pair) reseemm.at<float>(Point(x, y))=(p3+p4)/2;
+         if (p1!=0 && p2==0 && p3==0 && p4!=0) if( abs(p1-p4) < param1pair) reseemm.at<float>(Point(x, y))=(p1+p4)/2;
+         if (p1==0 && p2!=0 && p3==0 && p4!=0) if( abs(p2-p4) < param1pair) reseemm.at<float>(Point(x, y))=(p2+p4)/2;
+         if (p1==0 && p2==0 && p3!=0 && p4!=0) if( abs(p3-p4) < param1pair) reseemm.at<float>(Point(x, y))=(p3+p4)/2;
 
  
          if (p1!=0 && p2!=0 && p3!=0 && p4==0)
