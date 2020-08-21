@@ -5,7 +5,6 @@ Adam L. Kaczmarek, "Testbed for stereo vision algorithms using camera arrays"
 
 If you are using this work for research purposes please cite:
 1. Adam L. Kaczmarek, "Testbed for stereo vision algorithms using camera arrays", Submitted, 2020.
-2. Adam L. Kaczmarek, "3D Vision System for a Robotic Arm Based on Equal Baseline Camera Array", Journal of Intelligent & Robotic Systems, 2019.
 
 The application was tested on Linux Mint 18.2
 
