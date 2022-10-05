@@ -20,7 +20,8 @@
 
 # Author: Adam L. Kaczmarek
 #If you are using this work for research purposes please cite:
-#1. Adam L. Kaczmarek, "3D Vision System for a Robotic Arm Based on Equal Baseline Camera Array", Journal of Intelligent & Robotic Systems, 2019.
+#1. Adam L. Kaczmarek, "3D Vision System for a Robotic Arm Based on Equal Baseline Camera Array", Journal of Intelligent & Robotic Systems 99, 13-28, Springer 2020. 
+#2. Adam L. Kaczmarek and Bernhard Blaschitz, "Equal baseline camera array - calibration, testbed and applications", Applied Sciences 11(18), MDPI 2021.
 
 FOLDER_DATA_IN=/media/alkaczma/USBETI/data/in/
 FOLDER_DATA_OUT=/media/alkaczma/USBETI/data/out/
