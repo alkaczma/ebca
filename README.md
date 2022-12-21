@@ -23,5 +23,5 @@ Installation process:
 Running:
 ./runtestbed.sh
 
-If you have any questions please contact me: https://pg.edu.pl/d119a02021_adam.kaczmarek
+If you have any questions please contact me: https://pg.edu.pl/p/adam-kaczmarek-21676
 I encourage other researchers interested in this technology to contact me and cooperate in order to further develop the technology of Equal Baseline Camera Array.
