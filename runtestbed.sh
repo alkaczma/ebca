@@ -1,4 +1,4 @@
-# Copyright (c) 2018 Adam L. Kaczmarek
+# Copyright (c) 2021Adam L. Kaczmarek
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -23,16 +23,16 @@
 #1. Adam L. Kaczmarek, "3D Vision System for a Robotic Arm Based on Equal Baseline Camera Array", Journal of Intelligent & Robotic Systems 99, 13-28, Springer 2020. 
 #2. Adam L. Kaczmarek and Bernhard Blaschitz, "Equal baseline camera array - calibration, testbed and applications", Applied Sciences 11(18), MDPI 2021.
 
-FOLDER_DATA_IN=/media/alkaczma/USBETI/data/in/
-FOLDER_DATA_OUT=/media/alkaczma/USBETI/data/out/
-FOLDER_GT=/media/alkaczma/USBETI/data/GT/
+FOLDER_DATA_IN=~/ebca/data/in/
+FOLDER_DATA_OUT=~/ebca/data/out/
+FOLDER_GT=~/ebca/data/GT/
 
-FOLDER_MIDD=/media/alkaczma/USBETI/software/middlebury/mrfstereo
-FOLDER_SGBM=/media/alkaczma/USBETI/software/stereosgbm
-FOLDER_ELAS=/media/alkaczma/USBETI/software/libelas
+FOLDER_MIDD=~/ebca/software/middlebury/mrfstereo
+FOLDER_SGBM=~/ebca/software/stereosgbm
+FOLDER_ELAS=~/ebca/software/libelas
 
 
-MERGE_AND_EVALUATE_TOOL_FOLDER=/media/alkaczma/USBETI/software/testbed
+MERGE_AND_EVALUATE_TOOL_FOLDER=~/ebca/software/testbed
 EVALUATE_TOOL="./adtestbed -e"
 
 MERGE_TOOL="./adtestbed -m"
