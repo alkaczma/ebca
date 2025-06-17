@@ -1,5 +1,5 @@
-# EBCA testbed
-EBCA testbed includes datasets and software for developing camera based 3D vision system for robotic fruit harvesting. The system is based on stereo cameras and a setup with multiple cameras called equal baseline camera array (EBCA). 
+# EBCA dataset
+EBCA dataset includes images, ground truth and software for developing camera based 3D vision system for robotic fruit harvesting. The system is based on stereo cameras and a setup with multiple cameras called equal baseline camera array (EBCA). 
 
 Details of using this software are presented in the paper:
 Adam L. Kaczmarek, "Testbed for stereo vision algorithms using camera arrays"
