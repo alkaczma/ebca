@@ -1,4 +1,4 @@
-# Software for equal baseline camera array (EBCA)
+# EBCA dataset - Equal baseline camera array testbed and dataset for developing 3D vision system for robotic fruit harvesting
 
 Details of using this software are presented in the paper:
 Adam L. Kaczmarek, "Testbed for stereo vision algorithms using camera arrays"
